@@ -1,17 +1,18 @@
 ---
 # Display name
-title: 吳健雄
+title: 任德帅
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Deshuai Ren
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Deshuai
+Preferred_name: Ruben
+last_name: Ren
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✈️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +21,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: CFII-A/H
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +184,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Deshuai "Ruben" Ren is a dual-rated Gold Seal Flight Instructor, specializing in both helicopter and airplane instruction. He holds FAA certifications as a CFII for both rotorcraft and fixed-wing aircraft, as well as AGI, IGI, and Remote Pilot ratings.
+
+Ruben began his teaching career as a helicopter instructor in 2021, and later expanded into fixed-wing instruction with a strong emphasis on instrument training. He has trained students in both English and Mandarin, and has a passion for safety-focused, judgment-based flight education.
+
+Currently based in Portland, Oregon, Ruben provides a range of services including time building, discovery flights, IPCs, and flight reviews. In addition to flight training, he also develops web-based aviation tools through his project [PilotSeal.com](https://www.pilotseal.com), aiming to enhance preflight safety and instructional efficiency.
+
+He believes good instruction builds not only skill, but also confidence, humility, and decision-making discipline—qualities essential for every safe pilot.
