@@ -21,18 +21,20 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CFII-A/H
+role: Gold Seal Instructor Airplane/Helicopter
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: Independent Flight Consult
+    url: https://personal.pilotseal.com/
+  - name: National Association of Flight Instructors (NAFI)
+    url: https://www.nafinet.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:aviation.ruben@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -48,42 +50,17 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Flight Instruction Safety
+  - Scenario-Based Training
+  - Aviation Education Technology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Eng. in Flight Operations Engineering
+    institution: Civil Aviation University of China
+    date_start: 2014-09-01
+    date_end: 2018-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Focused on aerodynamics, flight systems, and performance calculations.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -111,20 +88,17 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Teaching Specialties
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Helicopter Instruction
         percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: helicopter
+      - name: Fixed-Wing Instrument
+        percent: 90
+        icon: airplane
+      - name: Chinese-English Bilingual Training
+        percent: 100
+        icon: chat
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
