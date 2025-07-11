@@ -1,3 +1,14 @@
-- widget: hero
-  enable: true
-  weight: 10
+widgets:
+  - widget: hero
+    enable: true
+    weight: 10
+
+  - widget: author
+    enable: true
+    weight: 15
+
+  - widget: projects
+    enable: true
+    weight: 40
+    content:
+      count: 5
